@@ -11,8 +11,9 @@ Welcome to the Sokoban Game repository! This project is an implementation of the
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](Sokoban/Sokoban/sokoban.png)
+![Screenshot 2](Sokoban/Sokoban/sokoban1.png)
+![Screenshot 3](Sokoban/Sokoban/sokoban2.png)
 
 ## Installation
 
